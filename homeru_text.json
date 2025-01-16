@@ -1,0 +1,19 @@
+{
+  "name": "homeru_text",
+  "version": "0.1",
+  "description": "褒め系テキスト",
+  "credit": "namu3", 
+  "iconURL": "",
+  "emojis": [
+    {
+      "shortcode": "fur_www",
+      "imageURL": "https://example.com/files/hoge.gif",
+      "aliases": ["ファーｗｗｗ", "ふぁー"]
+    },
+    {
+      "shortcode": "iinex2",
+      "imageURL": "https://example.com/files/hoge.gif",
+      "aliases": ["いいねいいね"]
+    }
+  ]
+}
