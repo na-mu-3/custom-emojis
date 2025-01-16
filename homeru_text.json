@@ -7,12 +7,12 @@
   "emojis": [
     {
       "shortcode": "fur_www",
-      "imageURL": "hhttps://github.com/na-mu-3/hoge1/blob/da18d5f7198dabd6a55177bfce94bb2c3dfc7cb2/images/fur_www.gif",
+      "imageURL": "https://github.com/na-mu-3/hoge1/blob/main/images/fur_www.gif",
       "aliases": ["ファーｗｗｗ", "ふぁー"]
     },
     {
       "shortcode": "iinex2",
-      "imageURL": "https://github.com/na-mu-3/hoge1/blob/da18d5f7198dabd6a55177bfce94bb2c3dfc7cb2/images/iinex2.png",
+      "imageURL": "https://github.com/na-mu-3/hoge1/blob/main/images/iinex2.png",
       "aliases": ["いいねいいね"]
     }
   ]
