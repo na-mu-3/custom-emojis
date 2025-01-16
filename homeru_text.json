@@ -2,17 +2,17 @@
   "name": "homeru_text",
   "version": "0.1",
   "description": "褒め系テキスト",
-  "credit": "namu3", 
-  "iconURL": "https://github.com/na-mu-3/hoge1/blob/main/images/iinex2.png",
+  "credit": "namu3",
+  "iconURL": "https://raw.githubusercontent.com/na-mu-3/hoge1/refs/heads/main/images/iinex2.png",
   "emojis": [
     {
       "shortcode": "fur_www",
-      "imageURL": "https://github.com/na-mu-3/hoge1/blob/main/images/fur_www.gif",
+      "imageURL": "https://raw.githubusercontent.com/na-mu-3/hoge1/refs/heads/main/images/fur_www.gif",
       "aliases": ["ファーｗｗｗ", "ふぁー"]
     },
     {
       "shortcode": "iinex2",
-      "imageURL": "https://github.com/na-mu-3/hoge1/blob/main/images/iinex2.png",
+      "imageURL": "https://raw.githubusercontent.com/na-mu-3/hoge1/refs/heads/main/images/iinex2.png",
       "aliases": ["いいねいいね"]
     }
   ]
