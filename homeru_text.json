@@ -6,14 +6,39 @@
   "iconURL": "https://raw.githubusercontent.com/na-mu-3/hoge1/refs/heads/main/images/iinex2.png",
   "emojis": [
     {
-      "shortcode": "fur_www",
-      "imageURL": "https://raw.githubusercontent.com/na-mu-3/hoge1/refs/heads/main/images/fur_www.gif",
-      "aliases": ["ファーｗｗｗ", "ふぁー"]
-    },
-    {
       "shortcode": "iinex2",
-      "imageURL": "https://raw.githubusercontent.com/na-mu-3/hoge1/refs/heads/main/images/iinex2.png",
+      "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/heads/main/images/iinex2.png",
       "aliases": ["いいねいいね"]
+    }
+    ,{
+      "shortcode": "iinee",
+      "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/heads/main/images/iinee.png",
+      "aliases": ["いいねぇ", "いいねえ"]
+    }
+    ,{
+      "shortcode": "saiko",
+      "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/heads/main/images/saiko.webp",
+      "aliases": ["最高", "さいこう"]
+    }
+    ,{
+      "shortcode": "saikyo",
+      "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/heads/main/images/saikyo.gif",
+      "aliases": ["最強", "さいきょう"]
+    }
+    ,{
+      "shortcode": "yoi_dot_blue",
+      "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/heads/main/images/yoi_dot_blue.png",
+      "aliases": ["良い…", "よい", "いい"]
+    }
+    ,{
+      "shortcode": "yosugi",
+      "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/heads/main/images/yosugi.png",
+      "aliases": ["良すぎ", "よすぎ"]
+    }
+    ,{
+      "shortcode": "fur_www",
+      "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/images/fur_www.gif",
+      "aliases": ["ファーｗｗｗ", "ふぁー"]
     }
   ]
 }
