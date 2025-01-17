@@ -1,43 +1,43 @@
 {
   "name": "homeru_text",
-  "version": "0.1",
-  "description": "褒め系テキスト",
+  "version": "0.2",
+  "description": "褒めるテキスト",
   "credit": "namu3",
-  "iconURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/images/iinex2.png",
+  "iconURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/iinex2.png",
   "emojis": [
     {
       "shortcode": "iinex2",
-      "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/images/iinex2.png",
+      "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/iinex2.png",
       "aliases": ["いいねいいね"]
     }
     ,{
       "shortcode": "iinee",
-      "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/images/iinee.png",
+      "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/iinee.png",
       "aliases": ["いいねぇ", "いいねえ"]
     }
     ,{
       "shortcode": "saiko",
-      "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/images/saiko.webp",
+      "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/saiko.webp",
       "aliases": ["最高", "さいこう"]
     }
     ,{
       "shortcode": "saikyo",
-      "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/images/saikyo.gif",
+      "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/saikyo.gif",
       "aliases": ["最強", "さいきょう"]
     }
     ,{
       "shortcode": "yoi_dot_blue",
-      "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/images/yoi_dot_blue.png",
+      "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/yoi_dot_blue.png",
       "aliases": ["良い…", "よい", "いい"]
     }
     ,{
       "shortcode": "yosugi",
-      "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/images/yosugi.png",
+      "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/yosugi.png",
       "aliases": ["良すぎ", "よすぎ"]
     }
     ,{
       "shortcode": "fur_www",
-      "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/images/fur_www.gif",
+      "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/fur_www.gif",
       "aliases": ["ファーｗｗｗ", "ふぁー"]
     }
   ]
