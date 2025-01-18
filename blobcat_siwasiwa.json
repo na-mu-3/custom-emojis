@@ -1,0 +1,28 @@
+{	
+  "name" : "blobcat_siwasiwa",	
+  "version" : "1.1",	
+  "description" : "しわしわぶろきゃ",	
+  "credit" : "画像@managarmr@misskey.gamelore.fun → パッケージ@namu3@ariake.concrnt.net",	
+  "iconURL" : "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobcat_siwasiwa/blobcat_siwasiwa.webp",	
+  "emojis" : [	
+ 	
+	    { "shortcode": "blobcat_siwasiwa", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobcat_siwasiwa/blobcat_siwasiwa.webp", "aliases": ["しわしわ"] }
+,	    { "shortcode": "blobcat_siwasiwacry", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobcat_siwasiwa/blobcat_siwasiwacry.webp", "aliases": ["しわしわ", "なく"] }
+,	    { "shortcode": "blobcat_siwasiwaflip", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobcat_siwasiwa/blobcat_siwasiwaflip.webp", "aliases": ["しわしわ"] }
+,	    { "shortcode": "petthesiwasiwa", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobcat_siwasiwa/petthesiwasiwa.webp", "aliases": ["しわしわ", "なでる"] }
+,	    { "shortcode": "blobcat_siwasiwamelt", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobcat_siwasiwa/blobcat_siwasiwamelt.webp", "aliases": ["しわしわ"] }
+,	    { "shortcode": "blobcat_siwasiwameltcry", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobcat_siwasiwa/blobcat_siwasiwameltcry.webp", "aliases": ["しわしわ", "なく"] }
+,	    { "shortcode": "blobcat_siwasiwaokitakunai", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobcat_siwasiwa/blobcat_siwasiwaokitakunai.webp", "aliases": ["しわしわ", "ねる", "おきたくない"] }
+,	    { "shortcode": "blobcat_siwasiwafuman", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobcat_siwasiwa/blobcat_siwasiwafuman.webp", "aliases": ["おこる", "ふまん"] }
+,	    { "shortcode": "blobcat_siwasiwahagishiri", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobcat_siwasiwa/blobcat_siwasiwahagishiri.webp", "aliases": ["おこる", "はぎしり"] }
+,	    { "shortcode": "blobcat_siwasiwaibukasi", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobcat_siwasiwa/blobcat_siwasiwaibukasi.webp", "aliases": ["かんがえる", "いぶかしむ"] }
+,	    { "shortcode": "blobcat_siwasiwathink", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobcat_siwasiwa/blobcat_siwasiwathink.webp", "aliases": ["かんがえる"] }
+,	    { "shortcode": "blobcat_siwasiwadeepthink", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobcat_siwasiwa/blobcat_siwasiwadeepthink.webp", "aliases": ["かんがえる"] }
+,	    { "shortcode": "blobcat_cart", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobcat_siwasiwa/blobcat_cart.webp", "aliases": ["かいもの", "かーと"] }
+,	    { "shortcode": "blobcat_siwasiwacart", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobcat_siwasiwa/blobcat_siwasiwacart.webp", "aliases": ["かいもの", "かーと", "しゅっか"] }
+,	    { "shortcode": "blobcat_hakase", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobcat_siwasiwa/blobcat_hakase.webp", "aliases": ["はかせ", "おじいちゃん"] }
+,	    { "shortcode": "blobcat_chourou", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobcat_siwasiwa/blobcat_chourou.webp", "aliases": ["ちょうろう", "おじいちゃん"] }
+,	    { "shortcode": "blobcat_obaachan", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobcat_siwasiwa/blobcat_obaachan.webp", "aliases": ["おばあちゃん"] }
+	
+  ]	
+}	

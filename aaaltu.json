@@ -1,0 +1,17 @@
+{	
+  "name" : "aaaltu",	
+  "version" : "1.1",	
+  "description" : "ウワーッ＆派生",	
+  "credit" : "派生の画像は@TG_88G@misskey.3dcg.love → パッケージ@namu3@ariake.concrnt.net",	
+  "iconURL" : "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aaaltu/uwaaltu.png",	
+  "emojis" : [	
+ 	
+	    { "shortcode": "ieltu", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aaaltu/ieltu.gif", "aliases": ["ｲｴｰｯ", "イエーッ", "いえーっ"] }
+,	    { "shortcode": "uooltu", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aaaltu/uooltu.png", "aliases": ["ｳｵｰｯ", "ウオーッ", "うおーっ"] }
+,	    { "shortcode": "uwaaltu", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aaaltu/uwaaltu.png", "aliases": ["ｳﾜｰｯ", "ウワーッ", "うわーっ"] }
+,	    { "shortcode": "owaltu", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aaaltu/owaltu.webp", "aliases": ["ｵﾜｰｯ", "オワーッ", "おわーっ"] }
+,	    { "shortcode": "gyaltu", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aaaltu/gyaltu.png", "aliases": ["ｷﾞｬｰｯ", "ギャーッ", "ぎゃーっ"] }
+,	    { "shortcode": "nuwaltu", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aaaltu/nuwaltu.webp", "aliases": ["ﾇﾜｰｯ", "ヌワーッ", "ぬわーっ"] }
+	
+  ]	
+}	
