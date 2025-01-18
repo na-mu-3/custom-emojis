@@ -1,0 +1,15 @@
+{
+  "name": "blobcat_siwasiwa",
+  "version": "1.1",
+  "description": "しわしわぶろきゃ",
+  "credit": "画像：@managarmr@misskey.gamelore.fun　→パッケージ：@namu3@ariake.concrnt.net",
+  "iconURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobcat_siwasiwa",
+  "emojis": [
+    {
+      "shortcode": "iinex2",
+      "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobcat_siwasiwa/iinex2.png",
+      "aliases": ["いいねいいね"]
+    }
+
+  ]
+}
