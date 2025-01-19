@@ -1,14 +1,14 @@
 {	
   "name" : "web",	
-  "version" : "1.2",	
+  "version" : "1.3",	
   "description" : "ウェブサービスなど",	
   "credit" : "@namu3@ariake.concrnt.net",	
   "iconURL" : "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/web/Fediverse_logo.png",	
   "emojis" : [	
  	
 	    { "shortcode": "Fediverse_logo", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/web/Fediverse_logo.png", "aliases": ["フェディバース", "ふぇでぃばーす"] }
-,	    { "shortcode": "ActivityPub-logo", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/web/ActivityPub-logo.png", "aliases": ["ActivityPub", "あくてぃびてぃぱぶ"] }
-,	    { "shortcode": "ActivityPub-logo-symbol", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/web/ActivityPub-logo-symbol.png", "aliases": ["ActivityPub", "あくてぃびてぃぱぶ"] }
+,	    { "shortcode": "ActivityPub_logo", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/web/ActivityPub_logo.png", "aliases": ["ActivityPub", "あくてぃびてぃぱぶ"] }
+,	    { "shortcode": "ActivityPub_logo_symbol", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/web/ActivityPub_logo_symbol.png", "aliases": ["ActivityPub", "あくてぃびてぃぱぶ"] }
 ,	    { "shortcode": "AT_Protocol_Logo", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/web/AT_Protocol_Logo.svg.png", "aliases": ["AT Protocol"] }
 ,	    { "shortcode": "misskey_logo", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/web/misskey_logo.png", "aliases": ["みすきー", "ミスキー"] }
 ,	    { "shortcode": "misskey", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/web/misskey.webp", "aliases": ["みすきー", "ミスキー"] }
