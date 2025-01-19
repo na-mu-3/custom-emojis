@@ -1,14 +1,15 @@
 {	
   "name" : "homeru_text",	
-  "version" : "1.1",	
+  "version" : "1.2",	
   "description" : "褒めるテキスト",	
-  "credit" : "namu3",	
+  "credit" : "@namu3@ariake.concrnt.net",	
   "iconURL" : "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/iinex2.png",	
   "emojis" : [	
  	
 	    { "shortcode": "atamaii", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/atamaii.png", "aliases": ["あたまいい", "頭いい"] }
 ,	    { "shortcode": "amarinimo_kawaii", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/amarinimo_kawaii.webp", "aliases": ["あまりにもかわいい"] }
 ,	    { "shortcode": "3D_ara", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/3D_ara.webp", "aliases": ["あら～"] }
+,	    { "shortcode": "iikoto", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/iikoto.png", "aliases": ["いいこと"] }
 ,	    { "shortcode": "iizo", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/iizo.png", "aliases": ["いいぞ"] }
 ,	    { "shortcode": "iinaa2", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/iinaa2.png", "aliases": ["いいな"] }
 ,	    { "shortcode": "iine", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/iine.png", "aliases": ["いいね"] }
@@ -28,6 +29,7 @@
 ,	    { "shortcode": "osyare", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/osyare.png", "aliases": ["おしゃれ", "オシャレ"] }
 ,	    { "shortcode": "omedeto", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/omedeto.gif", "aliases": ["おめでとう"] }
 ,	    { "shortcode": "kakkoii", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/kakkoii.gif", "aliases": ["かっこいい", "カッコいい"] }
+,	    { "shortcode": "kakkoii", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/kakkoii.png", "aliases": ["かっこいい", "カッコいい"] }
 ,	    { "shortcode": "kami", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/kami.png", "aliases": ["かみ", "神"] }
 ,	    { "shortcode": "kami_kira", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/kami_kira.gif", "aliases": ["かみ", "神"] }
 ,	    { "shortcode": "kamiwaza", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/kamiwaza.webp", "aliases": ["かみわざ", "神業"] }
@@ -37,13 +39,16 @@
 ,	    { "shortcode": "kawaii_anime", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/kawaii_anime.gif", "aliases": ["かわいい"] }
 ,	    { "shortcode": "kawaiine", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/kawaiine.png", "aliases": ["かわいいね"] }
 ,	    { "shortcode": "kawaiifes", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/kawaiifes.png", "aliases": ["かわいい祭り", "かわいいまつり"] }
+,	    { "shortcode": "nkawaii", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/nkawaii.png", "aliases": ["かわいい", "んがわいい"] }
 ,	    { "shortcode": "kanpeki", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/kanpeki.gif", "aliases": ["かんぺき", "完璧"] }
+,	    { "shortcode": "kirei", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/kirei.png", "aliases": ["きれい", "キレイ"] }
 ,	    { "shortcode": "kirei", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/kirei.webp", "aliases": ["きれい", "綺麗"] }
 ,	    { "shortcode": "koresuki", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/koresuki.png", "aliases": ["これすき"] }
 ,	    { "shortcode": "koresuki_text", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/koresuki_text.png", "aliases": ["これすき"] }
 ,	    { "shortcode": "saikyo", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/saikyo.gif", "aliases": ["さいきょう"] }
 ,	    { "shortcode": "saiko", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/saiko.webp", "aliases": ["さいこう", "最高"] }
 ,	    { "shortcode": "sasuga", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/sasuga.png", "aliases": ["さすが"] }
+,	    { "shortcode": "juujitsu", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/juujitsu.gif", "aliases": ["じゅうじつ", "充実"] }
 ,	    { "shortcode": "sintyoku", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/sintyoku.webp", "aliases": ["しんちょく", "進捗"] }
 ,	    { "shortcode": "shintyokujan", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/shintyokujan.webp", "aliases": ["しんちょくじゃん", "進捗じゃん"] }
 ,	    { "shortcode": "suki", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/suki.png", "aliases": ["すき"] }
@@ -55,8 +60,10 @@
 ,	    { "shortcode": "sugoihanashi", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/sugoihanashi.gif", "aliases": ["すごいはなし"] }
 ,	    { "shortcode": "sugosugi", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/sugosugi.webp", "aliases": ["すごすぎ"] }
 ,	    { "shortcode": "suteki_heart", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/suteki_heart.png", "aliases": ["すてき", "ステキ", "素敵"] }
+,	    { "shortcode": "suteki2", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/suteki2.png", "aliases": ["すてき", "素敵"] }
 ,	    { "shortcode": "subarashii", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/subarashii.png", "aliases": ["すばらしい", "素晴らしい"] }
 ,	    { "shortcode": "sekaiiti", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/sekaiiti.png", "aliases": ["せかいいち", "世界一"] }
+,	    { "shortcode": "sono_choushi", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/sono_choushi.png", "aliases": ["そのちょうし", "その調子！"] }
 ,	    { "shortcode": "soresuki", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/soresuki.webp", "aliases": ["それすき", "すき", "suki", "好き"] }
 ,	    { "shortcode": "daisuki", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/daisuki.png", "aliases": ["だいすき"] }
 ,	    { "shortcode": "tanosimi", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/tanosimi.webp", "aliases": ["たのしみ"] }
@@ -68,8 +75,17 @@
 ,	    { "shortcode": "nice", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/nice.png", "aliases": ["ナイス", "ナイス"] }
 ,	    { "shortcode": "nanka_sugosou", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/nanka_sugosou.png", "aliases": ["なんかすごそう", "なんか凄そう"] }
 ,	    { "shortcode": "nanbo_attemo_ii_short", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/nanbo_attemo_ii_short.png", "aliases": ["なんぼあってもいいですからね"] }
+,	    { "shortcode": "agooglehearts", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/agooglehearts.gif", "aliases": ["ハート"] }
 ,	    { "shortcode": "heart_niji", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/heart_niji.gif", "aliases": ["ハート", "げーみんぐ"] }
+,	    { "shortcode": "hayai", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/hayai.png", "aliases": ["はやい！"] }
 ,	    { "shortcode": "beautiful", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/beautiful.webp", "aliases": ["ビューティフル", "美しい"] }
+,	    { "shortcode": "puro", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/puro.png", "aliases": ["プロ"] }
+,	    { "shortcode": "hoshii", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/hoshii.png", "aliases": ["ほしい！"] }
+,	    { "shortcode": "hohoo", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/hohoo.webp", "aliases": ["ほほ～"] }
+,	    { "shortcode": "benri", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/benri.webp", "aliases": ["べんり", "便利"] }
+,	    { "shortcode": "benrikinou", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/benrikinou.png", "aliases": ["べんりきのう", "便利機能"] }
+,	    { "shortcode": "muteki", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/muteki.gif", "aliases": ["むてき", "無敵"] }
+,	    { "shortcode": "meigen", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/meigen.png", "aliases": ["めいげん", "名言"] }
 ,	    { "shortcode": "menkoi", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/menkoi.gif", "aliases": ["めんこい", "かわいい"] }
 ,	    { "shortcode": "yasashii_sekai", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/yasashii_sekai.png", "aliases": ["やさしいせかい"] }
 ,	    { "shortcode": "yattaa", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/yattaa.png", "aliases": ["やった～"] }
@@ -78,6 +94,7 @@
 ,	    { "shortcode": "yuueki_jouhou", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/yuueki_jouhou.png", "aliases": ["ゆうえきじょうほう", "有益情報"] }
 ,	    { "shortcode": "yuusyou", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/yuusyou.png", "aliases": ["ゆうしょう", "優勝"] }
 ,	    { "shortcode": "yoi_dot_blue", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/yoi_dot_blue.png", "aliases": ["よい", "いい", "良い…"] }
+,	    { "shortcode": "love_yokattane", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/love_yokattane.png", "aliases": ["よかったね"] }
 ,	    { "shortcode": "yosasou", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/yosasou.png", "aliases": ["よさそう"] }
 ,	    { "shortcode": "yoshi", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/yoshi.png", "aliases": ["ヨシ"] }
 ,	    { "shortcode": "yosugi", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/yosugi.png", "aliases": ["よすぎ", "良すぎ"] }
