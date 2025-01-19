@@ -24,7 +24,7 @@
 ,	    { "shortcode": "pixiv", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/web/pixiv.png", "aliases": ["Pixiv"] }
 ,	    { "shortcode": "Booth", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/web/Booth.png", "aliases": ["ブース", "ぶーす"] }
 ,	    { "shortcode": "booth", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/web/booth.webp", "aliases": ["ブース", "ぶーす"] }
-,	    { "shortcode": "ｓkeb", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/web/ｓkeb.webp", "aliases": ["スケブ", "すけぶ"] }
+,	    { "shortcode": "skeb", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/web/skeb.webp", "aliases": ["スケブ", "すけぶ"] }
 ,	    { "shortcode": "ArtStation", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/web/ArtStation.webp", "aliases": ["アートステーション", "あーとすてーしょん"] }
 ,	    { "shortcode": "BlenderMarket", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/web/BlenderMarket.webp", "aliases": ["ブレンダーマーケット", "ぶれんだーまーけっと"] }
 ,	    { "shortcode": "UnityAssetStore", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/web/UnityAssetStore.webp", "aliases": ["ユニティアセットストア", "ゆにてぃあせっとすとあ"] }
