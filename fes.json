@@ -3,7 +3,7 @@
   "version" : "1.1",	
   "description" : "○○祭り",	
   "credit" : "@namu3@ariake.concrnt.net",	
-  "iconURL" : "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/festasukarufes.png",	
+  "iconURL" : "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/fes/tasukarufes.png",	
   "emojis" : [	
  	
 	    { "shortcode": "arigatofes", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/fes/arigatofes.png", "aliases": ["ありがと祭り", "ありがとまつり", "かんしゃ", "感謝"] }

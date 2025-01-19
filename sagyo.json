@@ -3,7 +3,7 @@
   "version" : "1.1",	
   "description" : "作業＆応援向け",	
   "credit" : "@namu3@ariake.concrnt.net",	
-  "iconURL" : "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sagyoWIP.webp",	
+  "iconURL" : "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sagyo/WIP.webp",	
   "emojis" : [	
  	
 	    { "shortcode": "lose", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sagyo/lose.png", "aliases": ["LOSE"] }

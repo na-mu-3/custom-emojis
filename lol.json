@@ -3,7 +3,7 @@
   "version" : "1.1",	
   "description" : "草生ゆる",	
   "credit" : "@namu3@ariake.concrnt.net",	
-  "iconURL" : "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol3D_kusa.webp",	
+  "iconURL" : "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/3D_kusa.webp",	
   "emojis" : [	
  	
 	    { "shortcode": "odoroki", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/odoroki.gif", "aliases": ["！？"] }

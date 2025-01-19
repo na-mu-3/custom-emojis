@@ -3,7 +3,7 @@
   "version" : "1.1",	
   "description" : "汎用あいさつ＆簡単な応答用",	
   "credit" : "@namu3@ariake.concrnt.net",	
-  "iconURL" : "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsut_youkoso.png",	
+  "iconURL" : "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/t_youkoso.png",	
   "emojis" : [	
  	
 	    { "shortcode": "aru", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/aru.png", "aliases": ["ある", "aru", "yes"] }

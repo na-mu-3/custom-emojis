@@ -3,7 +3,7 @@
   "version" : "1.1",	
   "description" : "そうそうそんなそれ",	
   "credit" : "@namu3@ariake.concrnt.net",	
-  "iconURL" : "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/soresore_of_sore.png",	
+  "iconURL" : "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sore/sore_of_sore.png",	
   "emojis" : [	
  	
 	    { "shortcode": "souiukoto", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sore/souiukoto.png", "aliases": ["そういう"] }

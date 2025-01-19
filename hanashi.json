@@ -3,7 +3,7 @@
   "version" : "1.1",	
   "description" : "○○はなし",	
   "credit" : "@namu3@ariake.concrnt.net",	
-  "iconURL" : "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/hanashimuzukasiihanashi.gif",	
+  "iconURL" : "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/hanashi/muzukasiihanashi.gif",	
   "emojis" : [	
  	
 	    { "shortcode": "arigatai_hanashi", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/hanashi/arigatai_hanashi.png", "aliases": ["ありがたいはなし"] }
