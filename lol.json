@@ -1,0 +1,85 @@
+{	
+  "name" : "lol",	
+  "version" : "1.1",	
+  "description" : "草生ゆる",	
+  "credit" : "@namu3@ariake.concrnt.net",	
+  "iconURL" : "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol3D_kusa.webp",	
+  "emojis" : [	
+ 	
+	    { "shortcode": "odoroki", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/odoroki.gif", "aliases": ["！？"] }
+,	    { "shortcode": "aruaru", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/aruaru.png", "aliases": ["あるある"] }
+,	    { "shortcode": "anshin", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/anshin.gif", "aliases": ["あんしん", "安心"] }
+,	    { "shortcode": "inochinokiken", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/inochinokiken.png", "aliases": ["いのちのきけん", "命の危険"] }
+,	    { "shortcode": "imasugu", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/imasugu.png", "aliases": ["いますぐ", "今すぐ"] }
+,	    { "shortcode": "internet_rojinkai", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/internet_rojinkai.png", "aliases": ["いんたーねっとろうじんかい", "インターネット老人会"] }
+,	    { "shortcode": "sadblob", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/sadblob.gif", "aliases": ["うーん", "ううむ", "かなしい", "かんがえる", "むずかしい"] }
+,	    { "shortcode": "thinkhappy", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/thinkhappy.png", "aliases": ["うーん", "ううむ", "かんがえる"] }
+,	    { "shortcode": "thinking_rotate", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/thinking_rotate.apng", "aliases": ["うーん", "ううむ", "かんがえる"] }
+,	    { "shortcode": "uo_dekka", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/uo_dekka.webp", "aliases": ["うお", "でっか", "でか"] }
+,	    { "shortcode": "ett1", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/ett1.png", "aliases": ["えっ"] }
+,	    { "shortcode": "ett2", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/ett2.png", "aliases": ["えっ", "エッ"] }
+,	    { "shortcode": "ehehee", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/ehehee.png", "aliases": ["エヘヘェ"] }
+,	    { "shortcode": "okidukininarimashitaka", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/okidukininarimashitaka.png", "aliases": ["おきづきになりましたか", "お気づきになりましたか"] }
+,	    { "shortcode": "ota", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/ota.png", "aliases": ["オタク", "メガネ", "泣く", "なく"] }
+,	    { "shortcode": "ochitukiasobase", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/ochitukiasobase.png", "aliases": ["おちつきあそばせ", "落ち着きあそばせ"] }
+,	    { "shortcode": "oltu", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/oltu.webp", "aliases": ["オッ"] }
+,	    { "shortcode": "ore", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/ore.png", "aliases": ["おれ", "俺"] }
+,	    { "shortcode": "oremo", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/oremo.png", "aliases": ["おれも", "俺も"] }
+,	    { "shortcode": "ore_mo_ore_mo", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/ore_mo_ore_mo.png", "aliases": ["おれもおれも", "俺も"] }
+,	    { "shortcode": "owakari", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/owakari.gif", "aliases": ["おわかりいただけただろうか…"] }
+,	    { "shortcode": "otoku", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/otoku.png", "aliases": ["お得", "おとく"] }
+,	    { "shortcode": "kaisen", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/kaisen.png", "aliases": ["かいせん", "開戦"] }
+,	    { "shortcode": "gaxtu", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/gaxtu.png", "aliases": ["がっ", "ｶﾞｯ", "ガッ"] }
+,	    { "shortcode": "kattare", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/kattare.webp", "aliases": ["かったれ", "買ったれ"] }
+,	    { "shortcode": "kanashitake", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/kanashitake.png", "aliases": ["かなしいたけ", "悲"] }
+,	    { "shortcode": "kiminosugataha", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/kiminosugataha.webp", "aliases": ["きみのすがたはぼくににている", "君の姿は僕に似ている…"] }
+,	    { "shortcode": "gyakudatta_kamo_shirenee", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/gyakudatta_kamo_shirenee.png", "aliases": ["ぎゃくだったかもしれねえ"] }
+,	    { "shortcode": "kusa", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/kusa.png", "aliases": ["くさ", "lol", "wara", "草"] }
+,	    { "shortcode": "3D_kusa", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/3D_kusa.webp", "aliases": ["くさ", "草", "lol", "わろた"] }
+,	    { "shortcode": "kusakusa_no_kusa", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/kusakusa_no_kusa.png", "aliases": ["くさくさのくさ", "草", "ｗ"] }
+,	    { "shortcode": "kusodeka", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/kusodeka.png", "aliases": ["くそでか", "クソデカ", "kusodeka", "でかい", "dekai", "大きい", "ookii", "big", "large"] }
+,	    { "shortcode": "genbaneko", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/genbaneko.png", "aliases": ["げんばねこ", "よし", "現場猫", "しごとねこ", "仕事猫", "yoshi", "yosi", "neko", "genba"] }
+,	    { "shortcode": "kokodeikku__1get", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/kokodeikku__1get.png", "aliases": ["ここでいっく", "ここで一句"] }
+,	    { "shortcode": "konokashiwatashinokotoda", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/konokashiwatashinokotoda.png", "aliases": ["このかしわたしのことだ", "この歌詞私のことだ…"] }
+,	    { "shortcode": "sakushi", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/sakushi.webp", "aliases": ["さくし", "策士"] }
+,	    { "shortcode": "go_work", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/go_work.png", "aliases": ["しごとしろ", "仕事しろ", "shigoto"] }
+,	    { "shortcode": "blobhyperbounce", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/blobhyperbounce.apng", "aliases": ["ジャンプ"] }
+,	    { "shortcode": "zehi1", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/zehi1.gif", "aliases": ["ぜひ"] }
+,	    { "shortcode": "zenbu", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/zenbu.png", "aliases": ["ぜんぶ", "全部"] }
+,	    { "shortcode": "soreijouhaikenai", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/soreijouhaikenai.gif", "aliases": ["それ以上はいけない", "それいじょうはいけない"] }
+,	    { "shortcode": "taisetsu", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/taisetsu.png", "aliases": ["たいせつ", "大切"] }
+,	    { "shortcode": "daitaiatteru", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/daitaiatteru.webp", "aliases": ["だいたいあってる"] }
+,	    { "shortcode": "chotto_wakaru", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/chotto_wakaru.png", "aliases": ["ちょっとわかる"] }
+,	    { "shortcode": "tsuyoi2", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/tsuyoi2.png", "aliases": ["つよい", "よわい"] }
+,	    { "shortcode": "dekai", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/dekai.png", "aliases": ["デカい", "でかい"] }
+,	    { "shortcode": "desuyone", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/desuyone.webp", "aliases": ["ですよね"] }
+,	    { "shortcode": "transparent", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/transparent.png", "aliases": ["とうめい", "透明"] }
+,	    { "shortcode": "very_sad", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/very_sad.webp", "aliases": ["なく", "悲しい", "涙", "悔しい", "かなしい", "号泣"] }
+,	    { "shortcode": "niku2", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/niku2.png", "aliases": ["にく", "肉"] }
+,	    { "shortcode": "nyo", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/nyo.webp", "aliases": ["にょ"] }
+,	    { "shortcode": "d_ne", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/d_ne.png", "aliases": ["ね"] }
+,	    { "shortcode": "hyper_vibecat", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/hyper_vibecat.gif", "aliases": ["ねこ", "cat", "rainbow", "gaming", "gif"] }
+,	    { "shortcode": "bakuhatsu", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/bakuhatsu.png", "aliases": ["ばくはつ", "爆発"] }
+,	    { "shortcode": "hagedou", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/hagedou.png", "aliases": ["はげどう", "禿同", "どうい", "同意"] }
+,	    { "shortcode": "hazukashitake", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/hazukashitake.webp", "aliases": ["はずかしいたけ", "恥"] }
+,	    { "shortcode": "pi_orange", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/pi_orange.png", "aliases": ["ピ！"] }
+,	    { "shortcode": "fur_www", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/fur_www.gif", "aliases": ["ファー", "ふぁー", "ｗｗｗ", "草", "くさ"] }
+,	    { "shortcode": "blobcat_long_fire_beam", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/blobcat_long_fire_beam.gif", "aliases": ["ファイヤービーム"] }
+,	    { "shortcode": "peropero", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/peropero.png", "aliases": ["ぺろぺろ"] }
+,	    { "shortcode": "hoshii_5000", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/hoshii_5000.png", "aliases": ["ほしい", "欲しい！", ""] }
+,	    { "shortcode": "boron", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/boron.png", "aliases": ["ぼろん"] }
+,	    { "shortcode": "honki", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/honki.gif", "aliases": ["ほんき", "本気"] }
+,	    { "shortcode": "hontou_ni_sou", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/hontou_ni_sou.png", "aliases": ["ほんとうにそう", "本当にそう"] }
+,	    { "shortcode": "majisuka", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/majisuka.gif", "aliases": ["まじすか", "マジすか"] }
+,	    { "shortcode": "mujun", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/mujun.webp", "aliases": ["むじゅん", "矛盾"] }
+,	    { "shortcode": "eyes_fidgeting", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/eyes_fidgeting.gif", "aliases": ["め", "eye", "目", "眼"] }
+,	    { "shortcode": "mogumogu", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/mogumogu.png", "aliases": ["もぐもぐ"] }
+,	    { "shortcode": "wakarimi", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/wakarimi.png", "aliases": ["わかりみ"] }
+,	    { "shortcode": "wakaru_button", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/wakaru_button.png", "aliases": ["わかる"] }
+,	    { "shortcode": "wakaru_hard", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/wakaru_hard.png", "aliases": ["わかる"] }
+,	    { "shortcode": "wakaru_loose", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/wakaru_loose.png", "aliases": ["わかる"] }
+,	    { "shortcode": "watakushidattesoudesuwa", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/watakushidattesoudesuwa.png", "aliases": ["わたくしだってそうですわ"] }
+,	    { "shortcode": "nfu", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/nfu.png", "aliases": ["ンフ", "んふ"] }
+	
+  ]	
+}	

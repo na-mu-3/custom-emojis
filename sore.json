@@ -1,0 +1,34 @@
+{	
+  "name" : "sore",	
+  "version" : "1.1",	
+  "description" : "そうそうそんなそれ",	
+  "credit" : "@namu3@ariake.concrnt.net",	
+  "iconURL" : "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/soresore_of_sore.png",	
+  "emojis" : [	
+ 	
+	    { "shortcode": "souiukoto", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sore/souiukoto.png", "aliases": ["そういう"] }
+,	    { "shortcode": "souiu_kotomo_aru", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sore/souiu_kotomo_aru.png", "aliases": ["そういうこともある"] }
+,	    { "shortcode": "souiutokimoaru", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sore/souiutokimoaru.png", "aliases": ["そういうときもある"] }
+,	    { "shortcode": "souiuno_mo_aru_noka", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sore/souiuno_mo_aru_noka.png", "aliases": ["そういうのもあるのか"] }
+,	    { "shortcode": "souiu_mon", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sore/souiu_mon.png", "aliases": ["そういうもん"] }
+,	    { "shortcode": "soukamo", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sore/soukamo.png", "aliases": ["そうかも"] }
+,	    { "shortcode": "sounano", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sore/sounano.png", "aliases": ["そうなの！？"] }
+,	    { "shortcode": "sounanda", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sore/sounanda.png", "aliases": ["そうなんだ"] }
+,	    { "shortcode": "souhanaranyaro", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sore/souhanaranyaro.png", "aliases": ["そうはならんやろ"] }
+,	    { "shortcode": "sonokanouseiwaaru", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sore/sonokanouseiwaaru.png", "aliases": ["そのかのうせいはある", "その可能性はある"] }
+,	    { "shortcode": "sore", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sore/sore.webp", "aliases": ["それ"] }
+,	    { "shortcode": "sore_of_sore", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sore/sore_of_sore.png", "aliases": ["それofそれ"] }
+,	    { "shortcode": "soresore", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sore/soresore.webp", "aliases": ["それそれ"] }
+,	    { "shortcode": "sorena_hard", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sore/sorena_hard.png", "aliases": ["それな"] }
+,	    { "shortcode": "sorena_loose", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sore/sorena_loose.png", "aliases": ["それな"] }
+,	    { "shortcode": "sorena_yuru", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sore/sorena_yuru.webp", "aliases": ["それな"] }
+,	    { "shortcode": "sorehasou", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sore/sorehasou.png", "aliases": ["それはそう"] }
+,	    { "shortcode": "soremomatajinsei", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sore/soremomatajinsei.gif", "aliases": ["それもまた人生", "じんせい"] }
+,	    { "shortcode": "sonnakotoarunda", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sore/sonnakotoarunda.png", "aliases": ["そんなことあるんだ"] }
+,	    { "shortcode": "sonnakotodekirunda", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sore/sonnakotodekirunda.png", "aliases": ["そんなことできるんだ"] }
+,	    { "shortcode": "sonnamonoarunda", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sore/sonnamonoarunda.png", "aliases": ["そんなものあるんだ"] }
+,	    { "shortcode": "sonnamono_ha_nai", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sore/sonnamono_ha_nai.png", "aliases": ["そんなものはない"] }
+,	    { "shortcode": "douiukotonano", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sore/douiukotonano.png", "aliases": ["どういうことなの"] }
+	
+  ]	
+}	

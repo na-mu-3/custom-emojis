@@ -1,0 +1,21 @@
+{	
+  "name" : "fes",	
+  "version" : "1.1",	
+  "description" : "○○祭り",	
+  "credit" : "@namu3@ariake.concrnt.net",	
+  "iconURL" : "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/festasukarufes.png",	
+  "emojis" : [	
+ 	
+	    { "shortcode": "arigatofes", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/fes/arigatofes.png", "aliases": ["ありがと祭り", "ありがとまつり", "かんしゃ", "感謝"] }
+,	    { "shortcode": "omedetofes", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/fes/omedetofes.png", "aliases": ["おめでと祭り", "おめでとまつり"] }
+,	    { "shortcode": "otukarefes", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/fes/otukarefes.png", "aliases": ["お疲れ祭り", "おつかれまつり"] }
+,	    { "shortcode": "kawaiifes", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/fes/kawaiifes.png", "aliases": ["かわいい祭り", "かわいいまつり"] }
+,	    { "shortcode": "kininarufes", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/fes/kininarufes.png", "aliases": ["きになるまつり", "気になる祭り"] }
+,	    { "shortcode": "tasukarufes", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/fes/tasukarufes.png", "aliases": ["たすかるまつり", "助かる祭り", "かんしゃ", "感謝"] }
+,	    { "shortcode": "tasuketefes", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/fes/tasuketefes.png", "aliases": ["たすけてまつり", "助けて祭り"] }
+,	    { "shortcode": "naruhodofes", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/fes/naruhodofes.png", "aliases": ["なるほど祭り", "なるほどまつり"] }
+,	    { "shortcode": "matsuri", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/fes/matsuri.webp", "aliases": ["まつり", "祭"] }
+,	    { "shortcode": "fes", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/fes/fes.webp", "aliases": ["FES", "まつり"] }
+	
+  ]	
+}	

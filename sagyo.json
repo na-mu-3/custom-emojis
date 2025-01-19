@@ -1,0 +1,43 @@
+{	
+  "name" : "sagyo",	
+  "version" : "1.1",	
+  "description" : "作業＆応援向け",	
+  "credit" : "@namu3@ariake.concrnt.net",	
+  "iconURL" : "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sagyoWIP.webp",	
+  "emojis" : [	
+ 	
+	    { "shortcode": "lose", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sagyo/lose.png", "aliases": ["LOSE"] }
+,	    { "shortcode": "win", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sagyo/win.png", "aliases": ["WIN"] }
+,	    { "shortcode": "WIP", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sagyo/WIP.webp", "aliases": ["wip", "work", "progress"] }
+,	    { "shortcode": "nsfw", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sagyo/nsfw.png", "aliases": ["アダルト"] }
+,	    { "shortcode": "r18_caution", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sagyo/r18_caution.png", "aliases": ["アダルト", "NSFW", "R-18"] }
+,	    { "shortcode": "atode_kesu", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sagyo/atode_kesu.png", "aliases": ["あとでけす", "後で消す"] }
+,	    { "shortcode": "atode_miru", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sagyo/atode_miru.png", "aliases": ["あとでみる", "後で見る"] }
+,	    { "shortcode": "imasitta", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sagyo/imasitta.png", "aliases": ["いましった", "今知った"] }
+,	    { "shortcode": "ouen", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sagyo/ouen.gif", "aliases": ["おうえん", "応援"] }
+,	    { "shortcode": "gannbae", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sagyo/gannbae.gif", "aliases": ["がんばえ"] }
+,	    { "shortcode": "ganbatte", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sagyo/ganbatte.gif", "aliases": ["がんばって", "頑張って"] }
+,	    { "shortcode": "ganbare", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sagyo/ganbare.png", "aliases": ["がんばれ", "ganbare", "fight"] }
+,	    { "shortcode": "kitai", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sagyo/kitai.png", "aliases": ["きたい", "期待"] }
+,	    { "shortcode": "blood_caution", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sagyo/blood_caution.png", "aliases": ["けつえきちゅうい", "血液注意"] }
+,	    { "shortcode": "jisaku", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sagyo/jisaku.webp", "aliases": ["じさく", "自作"] }
+,	    { "shortcode": "jisseki_kaijyo", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sagyo/jisseki_kaijyo.png", "aliases": ["じっせきかいじょ", "実績解除"] }
+,	    { "shortcode": "tukutta", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sagyo/tukutta.png", "aliases": ["つくった", "創造した"] }
+,	    { "shortcode": "doi", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sagyo/doi.webp", "aliases": ["どうい", "同意", "doui"] }
+,	    { "shortcode": "dokidoki", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sagyo/dokidoki.gif", "aliases": ["ドキドキ", "どきどき"] }
+,	    { "shortcode": "naruhodo", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sagyo/naruhodo.png", "aliases": ["なるほど"] }
+,	    { "shortcode": "nanto__i", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sagyo/nanto__i.png", "aliases": ["なんと！"] }
+,	    { "shortcode": "faito", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sagyo/faito.png", "aliases": ["ファイト"] }
+,	    { "shortcode": "fight", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sagyo/fight.gif", "aliases": ["ファイト"] }
+,	    { "shortcode": "fumufumu", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sagyo/fumufumu.png", "aliases": ["ふむふむ"] }
+,	    { "shortcode": "heki", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sagyo/heki.webp", "aliases": ["へき", "癖", "heki", "kuse", "くせ", "せいへき", "seiheki", "クセ"] }
+,	    { "shortcode": "benri", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sagyo/benri.webp", "aliases": ["べんり", "便利"] }
+,	    { "shortcode": "benrikinou", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sagyo/benrikinou.png", "aliases": ["べんりきのう", "便利機能"] }
+,	    { "shortcode": "hoshii", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sagyo/hoshii.png", "aliases": ["ほしい！"] }
+,	    { "shortcode": "madamada_kokokara", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sagyo/madamada_kokokara.png", "aliases": ["まだまだここから"] }
+,	    { "shortcode": "yattare", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sagyo/yattare.gif", "aliases": ["やったれ"] }
+,	    { "shortcode": "yareba_dekiru", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sagyo/yareba_dekiru.png", "aliases": ["やればできる", "ヤレばデキる"] }
+,	    { "shortcode": "kanzenni_rikai", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/sagyo/kanzenni_rikai.png", "aliases": ["完全に理解した", "かんぜんにりかいした"] }
+	
+  ]	
+}	

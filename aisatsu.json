@@ -1,0 +1,44 @@
+{	
+  "name" : "aisatsu",	
+  "version" : "1.1",	
+  "description" : "汎用あいさつ＆簡単な応答用",	
+  "credit" : "@namu3@ariake.concrnt.net",	
+  "iconURL" : "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsut_youkoso.png",	
+  "emojis" : [	
+ 	
+	    { "shortcode": "aru", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/aru.png", "aliases": ["ある", "aru", "yes"] }
+,	    { "shortcode": "iie", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/iie.png", "aliases": ["いいえ"] }
+,	    { "shortcode": "iiyo", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/iiyo.png", "aliases": ["いいよ"] }
+,	    { "shortcode": "iiyou", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/iiyou.gif", "aliases": ["いいよ"] }
+,	    { "shortcode": "okaeri", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/okaeri.png", "aliases": ["おかえり"] }
+,	    { "shortcode": "okiwo_tsukete", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/okiwo_tsukete.png", "aliases": ["おきをつけて"] }
+,	    { "shortcode": "odaizini", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/odaizini.png", "aliases": ["おだいじに"] }
+,	    { "shortcode": "otsukare", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/otsukare.png", "aliases": ["おつかれ", "お疲れ"] }
+,	    { "shortcode": "ohayoo", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/ohayoo.png", "aliases": ["おはよ", "おはよー"] }
+,	    { "shortcode": "ohayou", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/ohayou.png", "aliases": ["おはよう"] }
+,	    { "shortcode": "ohayou_gozaimasu", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/ohayou_gozaimasu.png", "aliases": ["おはようございます"] }
+,	    { "shortcode": "ohayougozaimasu", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/ohayougozaimasu.gif", "aliases": ["おはようございます"] }
+,	    { "shortcode": "ohisashiburidesu", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/ohisashiburidesu.png", "aliases": ["おひさしぶりです"] }
+,	    { "shortcode": "omachi_kudasai", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/omachi_kudasai.png", "aliases": ["おまちください", "お待ちください"] }
+,	    { "shortcode": "oyasumi1", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/oyasumi1.png", "aliases": ["おやすみ"] }
+,	    { "shortcode": "kakuninshimasu", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/kakuninshimasu.webp", "aliases": ["かくにんします", "確認します"] }
+,	    { "shortcode": "kangei", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/kangei.png", "aliases": ["かんげい", "歓迎", "ようこそ", "youkoso"] }
+,	    { "shortcode": "gyoi", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/gyoi.png", "aliases": ["ぎょい"] }
+,	    { "shortcode": "kenko_ni_yoi", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/kenko_ni_yoi.png", "aliases": ["けんこう", "健康"] }
+,	    { "shortcode": "gojiai", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/gojiai.webp", "aliases": ["ごじあい"] }
+,	    { "shortcode": "shibashi_omachiwo", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/shibashi_omachiwo.png", "aliases": ["しばしおまちを", "しばしお待ちを"] }
+,	    { "shortcode": "juuwari_douide_gozaimasu", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/juuwari_douide_gozaimasu.png", "aliases": ["じゅうわりどうい", "十割同意でございます"] }
+,	    { "shortcode": "taikinjimi", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/taikinjimi.png", "aliases": ["たいきん", "退勤"] }
+,	    { "shortcode": "t_tashikani", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/t_tashikani.png", "aliases": ["たしかに"] }
+,	    { "shortcode": "hai", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/hai.png", "aliases": ["はい", "yes"] }
+,	    { "shortcode": "t_youkoso", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/t_youkoso.png", "aliases": ["ようこそ", "welcome"] }
+,	    { "shortcode": "youkoso", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/youkoso.png", "aliases": ["ようこそ", "yokoso", "welcome"] }
+,	    { "shortcode": "youkoso_2", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/youkoso_2.gif", "aliases": ["ようこそ", "youkoso", "welcome", "歓迎", "kangei"] }
+,	    { "shortcode": "yomimasita", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/yomimasita.png", "aliases": ["よみました", "読みました"] }
+,	    { "shortcode": "yoroshiku", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/yoroshiku.png", "aliases": ["よろしく", "yorosiku", "yoroshiku", "bow", "pray", "onegai"] }
+,	    { "shortcode": "yoroshikuteyo", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/yoroshikuteyo.gif", "aliases": ["よろしくてよ"] }
+,	    { "shortcode": "yorosikune", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/yorosikune.png", "aliases": ["よろしくね", "yoroshiku", "yoro", "yoroshiku", "onegai", "bow", "pray", "please"] }
+,	    { "shortcode": "ran_ran_lunch", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/ran_ran_lunch.gif", "aliases": ["ランチ", "lunch", "ごはん", "ご飯", "食事", "昼ごはん", "昼ご飯", "ひるごはん", "gohan", "syokuzi", "hirugohan"] }
+	
+  ]	
+}	
