@@ -1,0 +1,33 @@
+{	
+  "name" : "3d_context",	
+  "version" : "1.1",	
+  "description" : "3D関係",	
+  "credit" : "@namu3@ariake.concrnt.net",	
+  "iconURL" : "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_context/Gizmo.webp",	
+  "emojis" : [	
+ 	
+	    { "shortcode": "3d", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_context/3d.png", "aliases": ["3D"] }
+,	    { "shortcode": "3d_hen", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_context/3d_hen.webp", "aliases": ["辺"] }
+,	    { "shortcode": "3d_men", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_context/3d_men.webp", "aliases": ["面"] }
+,	    { "shortcode": "3d_ten", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_context/3d_ten.webp", "aliases": ["頂点"] }
+,	    { "shortcode": "3d_uv", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_context/3d_uv.gif", "aliases": ["UV"] }
+,	    { "shortcode": "3d_mtl", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_context/3d_mtl.gif", "aliases": ["マテリアルエラー"] }
+,	    { "shortcode": "poly_poly", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_context/poly_poly.webp", "aliases": ["ポリ…"] }
+,	    { "shortcode": "poriwari_kirei", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_context/poriwari_kirei.gif", "aliases": ["ポリ割り綺麗", "ぽりわりきれい"] }
+,	    { "shortcode": "cornell_box", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_context/cornell_box.png", "aliases": ["コーネルボックス"] }
+,	    { "shortcode": "cube", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_context/cube.webp", "aliases": ["キューブ", "立方体"] }
+,	    { "shortcode": "Gizmo", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_context/Gizmo.webp", "aliases": ["ギズモ"] }
+,	    { "shortcode": "gizmo_blender", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_context/gizmo_blender.webp", "aliases": ["ギズモ"] }
+,	    { "shortcode": "Gizmo2", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_context/Gizmo2.webp", "aliases": ["ギズモ"] }
+,	    { "shortcode": "letter_pack_de_send_fbx", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_context/letter_pack_de_send_fbx.png", "aliases": ["レターパックでfbx送れ", "おくれ"] }
+,	    { "shortcode": "letter_pack_de_send_obj", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_context/letter_pack_de_send_obj.png", "aliases": ["レターパックでobj送れ", "おくれ"] }
+,	    { "shortcode": "fotogura_shite", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_context/fotogura_shite.png", "aliases": ["フォトグラして"] }
+,	    { "shortcode": "normalmap", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_context/normalmap.png", "aliases": ["ノーマルマップ"] }
+,	    { "shortcode": "party_suzanne", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_context/party_suzanne.gif", "aliases": ["スザンヌ", "パーティー"] }
+,	    { "shortcode": "petthesuzanne", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_context/petthesuzanne.gif", "aliases": ["スザンヌ", "なでる"] }
+,	    { "shortcode": "petpighead", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_context/petpighead.gif", "aliases": ["ぶた", "なでる", "豚"] }
+,	    { "shortcode": "steamvr_error", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_context/steamvr_error.webp", "aliases": ["Steam", "VR", "エラー"] }
+,	    { "shortcode": "blob_akiram", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_context/blob_akiram.png", "aliases": ["akiRAM"] }
+	
+  ]	
+}	

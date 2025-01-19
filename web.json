@@ -1,0 +1,33 @@
+{	
+  "name" : "web",	
+  "version" : "1.1",	
+  "description" : "ウェブサービスなど",	
+  "credit" : "@namu3@ariake.concrnt.net",	
+  "iconURL" : "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/web/Fediverse_logo.png",	
+  "emojis" : [	
+ 	
+	    { "shortcode": "Fediverse_logo", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/web/Fediverse_logo.png", "aliases": ["Fedibverse", "フェディバース", "ふぇでぃばーす"] }
+,	    { "shortcode": "ActivityPub-logo", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/web/ActivityPub-logo.png", "aliases": ["ActivityPub"] }
+,	    { "shortcode": "ActivityPub-logo-symbol", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/web/ActivityPub-logo-symbol.png", "aliases": ["ActivityPub"] }
+,	    { "shortcode": "AT_Protocol_Logo", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/web/AT_Protocol_Logo.svg.png", "aliases": ["AT Protocol"] }
+,	    { "shortcode": "misskey_logo", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/web/misskey_logo.png", "aliases": ["みすきー", "ミスキー"] }
+,	    { "shortcode": "misskey", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/web/misskey.webp", "aliases": ["Misskey", "みすきー", "ミスキー"] }
+,	    { "shortcode": "3dcgsuki_moji", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/web/3dcgsuki_moji.webp", "aliases": ["3DCGすきー"] }
+,	    { "shortcode": "misskey_loading", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/web/misskey_loading.apng", "aliases": ["ロード中", "ろーど", "Misskey"] }
+,	    { "shortcode": "misuhai", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/web/misuhai.png", "aliases": ["ミス廃", "みすはい"] }
+,	    { "shortcode": "mastodon", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/web/mastodon.png", "aliases": ["マストドン", "ますとどん"] }
+,	    { "shortcode": "Fedibird", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/web/Fedibird.png", "aliases": ["Fedibird", "フェディバード", "ふぇでぃばーど"] }
+,	    { "shortcode": "twitter", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/web/twitter.png", "aliases": ["ツイッター ついったー"] }
+,	    { "shortcode": "x_black", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/web/x_black.webp", "aliases": ["X", "えっくす"] }
+,	    { "shortcode": "x_transparent", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/web/x_transparent.png", "aliases": ["X", "えっくす"] }
+,	    { "shortcode": "Bluesky", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/web/Bluesky.png", "aliases": ["ブルースカイ", "ぶるーすかい"] }
+,	    { "shortcode": "pixiv", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/web/pixiv.png", "aliases": ["Pixiv"] }
+,	    { "shortcode": "Booth", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/web/Booth.png", "aliases": ["ブース", "ぶーす"] }
+,	    { "shortcode": "booth", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/web/booth.webp", "aliases": ["ブース", "ぶーす"] }
+,	    { "shortcode": "ｓkeb", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/web/ｓkeb.webp", "aliases": ["スケブ", "すけぶ"] }
+,	    { "shortcode": "ArtStation", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/web/ArtStation.webp", "aliases": ["アートステーション", "あーとすてーしょん"] }
+,	    { "shortcode": "BlenderMarket", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/web/BlenderMarket.webp", "aliases": ["ブレンダーマーケット", "ぶれんだーまーけっと"] }
+,	    { "shortcode": "UnityAssetStore", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/web/UnityAssetStore.webp", "aliases": ["ユニティアセットストア", "ゆにてぃあせっとすとあ"] }
+	
+  ]	
+}	

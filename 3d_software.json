@@ -1,0 +1,53 @@
+{	
+  "name" : "3d_software",	
+  "version" : "1.1",	
+  "description" : "3D関係ソフトウェア",	
+  "credit" : "@namu3@ariake.concrnt.net",	
+  "iconURL" : "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_software/blender.png",	
+  "emojis" : [	
+ 	
+	    { "shortcode": "3dcoat", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_software/3dcoat.webp", "aliases": ["3d coat"] }
+,	    { "shortcode": "3dsmax", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_software/3dsmax.png", "aliases": ["3ds", "max", "autodesk"] }
+,	    { "shortcode": "AfterEffects", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_software/AfterEffects.png", "aliases": ["あふたーえふぇくつ", "AE", "After Effects", "Adobe"] }
+,	    { "shortcode": "ARKit", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_software/ARKit.png", "aliases": ["AR Kit"] }
+,	    { "shortcode": "blender", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_software/blender.png", "aliases": ["ぶれんだー", "ブレンダー"] }
+,	    { "shortcode": "cinema4d", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_software/cinema4d.webp", "aliases": ["c4d", "しねま", "シネマ"] }
+,	    { "shortcode": "ClipStudioPaint", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_software/ClipStudioPaint.webp", "aliases": ["くりすた", "クリスタ", "くりっぷすたじお", "クリップスタジオ"] }
+,	    { "shortcode": "cluster", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_software/cluster.png", "aliases": ["くらすたー", "クラスター"] }
+,	    { "shortcode": "Element3D", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_software/Element3D.png", "aliases": ["えれめんと", "エレメント"] }
+,	    { "shortcode": "fusion360", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_software/fusion360.png", "aliases": ["ふゅーじょん"] }
+,	    { "shortcode": "GIMP", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_software/GIMP.png", "aliases": ["ぎんぷ"] }
+,	    { "shortcode": "Grasshopper", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_software/Grasshopper.jpeg", "aliases": ["ぐらすほっぱー"] }
+,	    { "shortcode": "gravitys", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_software/gravitys.jpeg", "aliases": ["ぐらびてぃすけっち"] }
+,	    { "shortcode": "houdini", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_software/houdini.png", "aliases": ["ふーでぃに", "ふーでぃーに"] }
+,	    { "shortcode": "Inkcape", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_software/Inkcape.png", "aliases": ["いんくすけーぷ"] }
+,	    { "shortcode": "instamat", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_software/instamat.png", "aliases": ["いんすたまっと"] }
+,	    { "shortcode": "keyshot", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_software/keyshot.webp", "aliases": ["きーしょっと"] }
+,	    { "shortcode": "linux", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_software/linux.png", "aliases": ["りなっくす", "リナックス"] }
+,	    { "shortcode": "marvelousd", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_software/marvelousd.png", "aliases": ["まーべらすでざいなー"] }
+,	    { "shortcode": "masterpiece", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_software/masterpiece.png", "aliases": ["ますたーぴーす"] }
+,	    { "shortcode": "maya", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_software/maya.png", "aliases": ["まや", "マヤ", "Autodesk"] }
+,	    { "shortcode": "metaseq3d", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_software/metaseq3d.jpeg", "aliases": ["めたせこいあ", "メタセコイア"] }
+,	    { "shortcode": "neos", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_software/neos.ico", "aliases": ["ねおす", "ネオス", "VR"] }
+,	    { "shortcode": "nvidia", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_software/nvidia.png", "aliases": ["えぬびでぃあ"] }
+,	    { "shortcode": "octane", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_software/octane.webp", "aliases": ["おくたん"] }
+,	    { "shortcode": "Photoshop", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_software/Photoshop.webp", "aliases": ["ふぉとしょっぷ", "フォトショップ", "Adobe"] }
+,	    { "shortcode": "Plasticity", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_software/Plasticity.webp", "aliases": ["ぷらすてぃしてぃ"] }
+,	    { "shortcode": "RealityComposerPro", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_software/RealityComposerPro.png", "aliases": ["りありてぃこんぽーざー"] }
+,	    { "shortcode": "RealityKit", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_software/RealityKit.png", "aliases": ["Reality Kit"] }
+,	    { "shortcode": "resonite", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_software/resonite.webp", "aliases": ["れぞないと", "レゾナイト"] }
+,	    { "shortcode": "Rhino3D", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_software/Rhino3D.png", "aliases": ["らいのせらす", "ライノセラス"] }
+,	    { "shortcode": "Shade3D", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_software/Shade3D.webp", "aliases": ["しぇーど", "しぇいど"] }
+,	    { "shortcode": "shapelab", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_software/shapelab.jpeg", "aliases": ["しぇいぷらぼ"] }
+,	    { "shortcode": "substance_ds", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_software/substance_ds.webp", "aliases": ["さぶすたんすでざいなー", "サブスタンスデザイナー"] }
+,	    { "shortcode": "substance_pt", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_software/substance_pt.png", "aliases": ["さぶすたんすぺいんたー", "サブスタンスペインター"] }
+,	    { "shortcode": "substance_sa", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_software/substance_sa.webp", "aliases": ["さぶすたんすさんぷらー", "サブスタンスサンプラー"] }
+,	    { "shortcode": "unity", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_software/unity.jpeg", "aliases": ["ゆにてぃ", "うにてぃ", "ユニティ"] }
+,	    { "shortcode": "unreal", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_software/unreal.png", "aliases": ["あんりあるえんじん", "アンリアルエンジン"] }
+,	    { "shortcode": "vrchat", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_software/vrchat.png", "aliases": ["ぶいあーるちゃっと", "ぶいちゃ"] }
+,	    { "shortcode": "vrchat_long", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_software/vrchat_long.webp", "aliases": ["ぶいあーるちゃっと", "ぶいちゃ"] }
+,	    { "shortcode": "vroidstudio", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_software/vroidstudio.webp", "aliases": ["ぶいろいど"] }
+,	    { "shortcode": "zbrush", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_software/zbrush.png", "aliases": ["ずぃーぶらし", "ぜっとぶらし"] }
+	
+  ]	
+}	
