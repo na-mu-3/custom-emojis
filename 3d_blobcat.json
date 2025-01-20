@@ -1,0 +1,24 @@
+{	
+  "name" : "3d_blobcat",	
+  "version" : "1.1",	
+  "description" : "3Dぶろきゃ",	
+  "credit" : "画像はhttps://koneri.org → パッケージ@namu3@ariake.concrnt.net",	
+  "iconURL" : "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_blobcatiinex2.png",	
+  "emojis" : [	
+ 	
+    	{ "shortcode": "3Dblobcat_call", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_blobcat/3Dblobcat_call.gif", "aliases": ["おうえん　応援　ペンラ"] }
+    ,	{ "shortcode": "3Dblobcat_callfullpower", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_blobcat/3Dblobcat_callfullpower.gif", "aliases": ["おうえん　応援　ペンラ　なみだ　涙"] }
+    ,	{ "shortcode": "3Dblobcat_happy", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_blobcat/3Dblobcat_happy.gif", "aliases": ["わーい　はっぴー　ぴょんぴょん"] }
+    ,	{ "shortcode": "3Dblobcat_huro", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_blobcat/3Dblobcat_huro.webp", "aliases": ["ふろ", "みずあび", "ちゃぽ　風呂"] }
+    ,	{ "shortcode": "3Dblobcat_kirakira", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_blobcat/3Dblobcat_kirakira.webp", "aliases": ["きらきら　aww　わくわく　どきどき　すてき　期待"] }
+    ,	{ "shortcode": "3Dblobcat_melt", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_blobcat/3Dblobcat_melt.webp", "aliases": ["あつい　hot　とける　あせ　ぐったり"] }
+    ,	{ "shortcode": "3Dblobcat_resonyance", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_blobcat/3Dblobcat_resonyance.gif", "aliases": ["ヒエ　こわい　怖い"] }
+    ,	{ "shortcode": "3Dblobcat_spam", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_blobcat/3Dblobcat_spam.webp", "aliases": ["スパム　缶"] }
+    ,	{ "shortcode": "3Dblobcat_surprised", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_blobcat/3Dblobcat_surprised.webp", "aliases": ["ワア　ワァ　おどろく　びっくり"] }
+    ,	{ "shortcode": "3Dblobcat_think", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_blobcat/3Dblobcat_think.webp", "aliases": ["かんがえる　考える"] }
+    ,	{ "shortcode": "3Dblobcat_thumbsup", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_blobcat/3Dblobcat_thumbsup.webp", "aliases": ["いいね　ナイス　nice"] }
+    ,	{ "shortcode": "3Dblobcat_tired", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_blobcat/3Dblobcat_tired.webp", "aliases": ["つかれた　疲れた　しょんぼり"] }
+    ,	{ "shortcode": "3Dblobcat_watawata", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_blobcat/3Dblobcat_watawata.gif", "aliases": ["わたわた　そわそわ　あわあわ"] }
+	
+  ]	
+}	
