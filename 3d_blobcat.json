@@ -3,7 +3,7 @@
   "version" : "1.1",	
   "description" : "3Dぶろきゃ",	
   "credit" : "画像はhttps://koneri.org → パッケージ@namu3@ariake.concrnt.net",	
-  "iconURL" : "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_blobcatiinex2.png",	
+  "iconURL" : "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_blobcat3Dblobcat_thumbsup.webp",	
   "emojis" : [	
  	
     	{ "shortcode": "3Dblobcat_call", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/3d_blobcat/3Dblobcat_call.gif", "aliases": ["おうえん　応援　ペンラ"] }
