@@ -1,6 +1,6 @@
 {	
   "name" : "homeru_text",	
-  "version" : "1.4",	
+  "version" : "1.5",	
   "description" : "褒めるテキスト",	
   "credit" : "@namu3@ariake.concrnt.net",	
   "iconURL" : "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/iinex2.png",	
@@ -47,7 +47,7 @@
    ,	{ "shortcode": "kawaiifes", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/kawaiifes.png", "aliases": ["かわいい祭り", "かわいいまつり"] }
    ,	{ "shortcode": "nkawaii", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/nkawaii.png", "aliases": ["かわいい", "んがわいい"] }
    ,	{ "shortcode": "kanpeki", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/kanpeki.gif", "aliases": ["かんぺき", "完璧"] }
-   ,	{ "shortcode": "lkyounosouzou", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/lkyounosouzou.png", "aliases": ["きょうのそうぞう", "今日の創造"] }
+   ,	{ "shortcode": "kyounosouzou", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/kyounosouzou.png", "aliases": ["きょうのそうぞう", "今日の創造"] }
    ,	{ "shortcode": "kirei", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/kirei.png", "aliases": ["きれい", "キレイ"] }
    ,	{ "shortcode": "kirei", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/kirei.webp", "aliases": ["きれい", "綺麗"] }
    ,	{ "shortcode": "koresuki", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/koresuki.png", "aliases": ["これすき"] }
