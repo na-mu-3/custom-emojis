@@ -1,6 +1,6 @@
 {	
   "name" : "aisatsu",	
-  "version" : "1.3",	
+  "version" : "1.4",	
   "description" : "汎用あいさつ＆簡単な応答用",	
   "credit" : "@namu3@ariake.concrnt.net",	
   "iconURL" : "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/t_youkoso.png",	
@@ -46,7 +46,7 @@
    ,	{ "shortcode": "yomimasita", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/yomimasita.png", "aliases": ["よみました", "読みました"] }
    ,	{ "shortcode": "yoroshiku", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/yoroshiku.png", "aliases": ["よろしく"] }
    ,	{ "shortcode": "yorosiku_onegai", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/yorosiku_onegai.png", "aliases": ["よろしくお願いします", "よろしくおねがいします"] }
-   ,	{ "shortcode": "yorosiku_onegaishimasu", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/yorosiku_onegaishimasu.png", "aliases": ["よろしくお願いします", "よろしくおねがいします"] }
+   ,	{ "shortcode": "yorosiku_onegai_shimasu", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/yorosiku_onegai_shimasu.png", "aliases": ["よろしくお願いします", "よろしくおねがいします"] }
    ,	{ "shortcode": "yoroshikuteyo", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/yoroshikuteyo.gif", "aliases": ["よろしくてよ"] }
    ,	{ "shortcode": "yorosikune", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/yorosikune.png", "aliases": ["よろしくね", "yoroshiku", "yoro", "yoroshiku", "onegai", "bow", "pray", "please"] }
    ,	{ "shortcode": "ran_ran_lunch", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/aisatsu/ran_ran_lunch.gif", "aliases": ["ランチ", "lunch", "ごはん", "ご飯", "食事", "昼ごはん", "昼ご飯", "ひるごはん", "gohan", "syokuzi", "hirugohan"] }
