@@ -1,6 +1,6 @@
 {	
   "name" : "homeru_text",	
-  "version" : "1.3",	
+  "version" : "1.4",	
   "description" : "褒めるテキスト",	
   "credit" : "@namu3@ariake.concrnt.net",	
   "iconURL" : "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/iinex2.png",	
@@ -23,7 +23,7 @@
    ,	{ "shortcode": "iiyone", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/iiyone.png", "aliases": ["いいよね"] }
    ,	{ "shortcode": "ikasu", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/ikasu.png", "aliases": ["イカす", "イカス", "いかす"] }
    ,	{ "shortcode": "igyo", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/igyo.png", "aliases": ["いぎょう", "偉業"] }
-   ,	{ "shortcode": "pachinko_gaming", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/pachinko_gaming.png", "aliases": ["いぎょう", "偉業"] }
+   ,	{ "shortcode": "igyo_gaming", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/igyo_gaming.gif", "aliases": ["いぎょう", "偉業"] }
    ,	{ "shortcode": "pachinko_igyo", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/pachinko_igyo.png", "aliases": ["いぎょう", "偉業"] }
    ,	{ "shortcode": "wonderful_igyo", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/wonderful_igyo.gif", "aliases": ["いぎょう", "偉業", "ワンダフル", "わんだふる"] }
    ,	{ "shortcode": "ikemen", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/ikemen.png", "aliases": ["イケメン", "いけめん"] }
