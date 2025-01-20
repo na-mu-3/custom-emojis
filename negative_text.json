@@ -1,44 +1,51 @@
 {	
   "name" : "negative_text",	
-  "version" : "1.1",	
+  "version" : "1.2",	
   "description" : "もうだめぽ",	
   "credit" : "@namu3@ariake.concrnt.net",	
   "iconURL" : "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/nanmowakaran.png",	
   "emojis" : [	
  	
-	    { "shortcode": "hatena", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/hatena.gif", "aliases": ["？", "わからない"] }
-,	    { "shortcode": "wakaranai07", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/wakaranai07.gif", "aliases": ["？？？？？？？", "わからない"] }
-,	    { "shortcode": "a_i", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/a_i.png", "aliases": ["ア！"] }
-,	    { "shortcode": "akirame", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/akirame.png", "aliases": ["あきらめ", "諦め"] }
-,	    { "shortcode": "iie", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/iie.png", "aliases": ["いいえ"] }
-,	    { "shortcode": "oyoo", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/oyoo.png", "aliases": ["オヨー", "およー"] }
-,	    { "shortcode": "kamo", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/kamo.png", "aliases": ["かも"] }
-,	    { "shortcode": "kawaisou", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/kawaisou.png", "aliases": ["かわいそう"] }
-,	    { "shortcode": "kangaesaserareru", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/kangaesaserareru.webp", "aliases": ["かんがえさせられる", "考えさせられる"] }
-,	    { "shortcode": "kyoufu", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/kyoufu.gif", "aliases": ["きょうふ", "恐怖"] }
-,	    { "shortcode": "jigatiisasugitemienai", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/jigatiisasugitemienai.png", "aliases": ["じがちいさすぎてみえない", "字が小さすぎて見えない"] }
-,	    { "shortcode": "shiranakatta_sonnano", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/shiranakatta_sonnano.webp", "aliases": ["しらなかったそんなの", "知らなかったそんなの…"] }
-,	    { "shortcode": "shintyoku_damedesu", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/shintyoku_damedesu.png", "aliases": ["しんちょくだめです", "shintyoku", "sintyoku", "進捗ダメです"] }
-,	    { "shortcode": "souhanaranyaro", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/souhanaranyaro.png", "aliases": ["そうはならんやろ"] }
-,	    { "shortcode": "sokoni_nakereba_naidesune", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/sokoni_nakereba_naidesune.png", "aliases": ["そこになければないですね", "そこに無ければ無いですね"] }
-,	    { "shortcode": "sonnaa", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/sonnaa.png", "aliases": ["そんなぁ", "そんなあ"] }
-,	    { "shortcode": "takasugi", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/takasugi.png", "aliases": ["たかすぎ", "高すぎ"] }
-,	    { "shortcode": "tasuketefes", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/tasuketefes.png", "aliases": ["たすけてまつり", "助けて祭り"] }
-,	    { "shortcode": "tanomu", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/tanomu.gif", "aliases": ["たのむ", "頼む"] }
-,	    { "shortcode": "tikutiku_kotoba", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/tikutiku_kotoba.png", "aliases": ["ちくちく言葉"] }
-,	    { "shortcode": "nazo", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/nazo.gif", "aliases": ["なぞ", "謎"] }
-,	    { "shortcode": "nan_dato", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/nan_dato.png", "aliases": ["なんだと"] }
-,	    { "shortcode": "nanmowakaran", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/nanmowakaran.png", "aliases": ["なんもわからん"] }
-,	    { "shortcode": "nannmo_wakarannzu", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/nannmo_wakarannzu.png", "aliases": ["なんもわからんズ"] }
-,	    { "shortcode": "nanmon", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/nanmon.png", "aliases": ["なんもん", "難問"] }
-,	    { "shortcode": "hito_no_kokoro_toka_nainka", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/hito_no_kokoro_toka_nainka.png", "aliases": ["ひとのこころとかないんか", "人の心とかないんか？"] }
-,	    { "shortcode": "hotondoihou", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/hotondoihou.webp", "aliases": ["ほとんど違法"] }
-,	    { "shortcode": "hontoni", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/hontoni.gif", "aliases": ["ほんとうに？", "本当に？"] }
-,	    { "shortcode": "maji", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/maji.webp", "aliases": ["マジ？"] }
-,	    { "shortcode": "mi", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/mi.webp", "aliases": ["ミ゜"] }
-,	    { "shortcode": "muhoutitai", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/muhoutitai.png", "aliases": ["むほうちたい", "無法地帯"] }
-,	    { "shortcode": "wakaranai", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/wakaranai.png", "aliases": ["わからない", "idk"] }
-,	    { "shortcode": "waruihanasi", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/waruihanasi.gif", "aliases": ["わるいはなし"] }
+    	{ "shortcode": "hatena", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/hatena.gif", "aliases": ["？", "わからない"] }
+   ,	{ "shortcode": "wakaranai07", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/wakaranai07.gif", "aliases": ["？？？？？？？", "わからない"] }
+   ,	{ "shortcode": "a_i", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/a_i.png", "aliases": ["ア！"] }
+   ,	{ "shortcode": "aaa", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/aaa.png", "aliases": ["あああ～"] }
+   ,	{ "shortcode": "akirame", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/akirame.png", "aliases": ["あきらめ", "諦め"] }
+   ,	{ "shortcode": "iie", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/iie.png", "aliases": ["いいえ"] }
+   ,	{ "shortcode": "waa", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/waa.png", "aliases": ["イーヤヤダヤダ"] }
+   ,	{ "shortcode": "tsurami", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/tsurami.png", "aliases": ["イヤッ！イヤッ！"] }
+   ,	{ "shortcode": "oyoo", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/oyoo.png", "aliases": ["オヨー", "およー"] }
+   ,	{ "shortcode": "kamo", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/kamo.png", "aliases": ["かも"] }
+   ,	{ "shortcode": "kawaisou", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/kawaisou.png", "aliases": ["かわいそう"] }
+   ,	{ "shortcode": "kangaesaserareru", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/kangaesaserareru.webp", "aliases": ["かんがえさせられる", "考えさせられる"] }
+   ,	{ "shortcode": "nayamashii", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/nayamashii.png.webp", "aliases": ["きょうのはかい", "今日の破壊"] }
+   ,	{ "shortcode": "kyoufu", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/kyoufu.gif", "aliases": ["きょうふ", "恐怖"] }
+   ,	{ "shortcode": "jigatiisasugitemienai", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/jigatiisasugitemienai.png", "aliases": ["じがちいさすぎてみえない", "字が小さすぎて見えない"] }
+   ,	{ "shortcode": "shiranakatta_sonnano", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/shiranakatta_sonnano.webp", "aliases": ["しらなかったそんなの", "知らなかったそんなの…"] }
+   ,	{ "shortcode": "shintyoku_damedesu", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/shintyoku_damedesu.png", "aliases": ["しんちょくだめです", "shintyoku", "sintyoku", "進捗ダメです"] }
+   ,	{ "shortcode": "souhanaranyaro", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/souhanaranyaro.png", "aliases": ["そうはならんやろ"] }
+   ,	{ "shortcode": "sokoni_nakereba_naidesune", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/sokoni_nakereba_naidesune.png", "aliases": ["そこになければないですね", "そこに無ければ無いですね"] }
+   ,	{ "shortcode": "sonnaa", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/sonnaa.png", "aliases": ["そんなぁ", "そんなあ"] }
+   ,	{ "shortcode": "takasugi", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/takasugi.png", "aliases": ["たかすぎ", "高すぎ"] }
+   ,	{ "shortcode": "tasuketefes", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/tasuketefes.png", "aliases": ["たすけてまつり", "助けて祭り"] }
+   ,	{ "shortcode": "tanomu", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/tanomu.gif", "aliases": ["たのむ", "頼む"] }
+   ,	{ "shortcode": "tikutiku_kotoba", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/tikutiku_kotoba.png", "aliases": ["ちくちく言葉"] }
+   ,	{ "shortcode": "iyaiya", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/iyaiya.png", "aliases": ["つらみ"] }
+   ,	{ "shortcode": "nazo", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/nazo.gif", "aliases": ["なぞ", "謎"] }
+   ,	{ "shortcode": "kyounohakai", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/kyounohakai.png", "aliases": ["なやましい", "悩ましい"] }
+   ,	{ "shortcode": "nan_dato", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/nan_dato.png", "aliases": ["なんだと"] }
+   ,	{ "shortcode": "nanmowakaran", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/nanmowakaran.png", "aliases": ["なんもわからん"] }
+   ,	{ "shortcode": "nannmo_wakarannzu", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/nannmo_wakarannzu.png", "aliases": ["なんもわからんズ"] }
+   ,	{ "shortcode": "nanmon", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/nanmon.png", "aliases": ["なんもん", "難問"] }
+   ,	{ "shortcode": "hito_no_kokoro_toka_nainka", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/hito_no_kokoro_toka_nainka.png", "aliases": ["ひとのこころとかないんか", "人の心とかないんか？"] }
+   ,	{ "shortcode": "hotondoihou", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/hotondoihou.webp", "aliases": ["ほとんど違法"] }
+   ,	{ "shortcode": "hontoni", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/hontoni.gif", "aliases": ["ほんとうに？", "本当に？"] }
+   ,	{ "shortcode": "maji", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/maji.webp", "aliases": ["マジ？"] }
+   ,	{ "shortcode": "mi", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/mi.webp", "aliases": ["ミ゜"] }
+   ,	{ "shortcode": "muhoutitai", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/muhoutitai.png", "aliases": ["むほうちたい", "無法地帯"] }
+   ,	{ "shortcode": "iya_yadayada", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/iya_yadayada.png", "aliases": ["わぁ", "わァ", "ワァ"] }
+   ,	{ "shortcode": "wakaranai", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/wakaranai.png", "aliases": ["わからない", "idk"] }
+   ,	{ "shortcode": "waruihanasi", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/negative_text/waruihanasi.gif", "aliases": ["わるいはなし"] }
 	
   ]	
 }	
