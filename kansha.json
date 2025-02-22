@@ -1,6 +1,6 @@
 {	
   "name" : "kansha",	
-  "version" : "1.2",	
+  "version" : "1.3",	
   "description" : "感謝の気持ちを伝えよう！",	
   "credit" : "@namu3@ariake.concrnt.net",	
   "iconURL" : "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/kansha/arigatougozaimasu.png",	
@@ -12,6 +12,7 @@
    ,	{ "shortcode": "arigatou_gozaimashita", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/kansha/arigatou_gozaimashita.png", "aliases": ["ありがとうございました"] }
    ,	{ "shortcode": "arigatougozaimasu", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/kansha/arigatougozaimasu.png", "aliases": ["ありがとうございます"] }
    ,	{ "shortcode": "arigatofes", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/kansha/arigatofes.png", "aliases": ["ありがと祭り", "ありがとまつり", "かんしゃ", "感謝"] }
+   ,	{ "shortcode": "itsumo_arigatou", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/kansha/itsumo_arigatou.webp", "aliases": ["いつもありがとう"] }
    ,	{ "shortcode": "kangeki", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/kansha/kangeki.png", "aliases": ["かんげき", "感激"] }
    ,	{ "shortcode": "kansha", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/kansha/kansha.png", "aliases": ["かんしゃ", "感謝"] }
    ,	{ "shortcode": "kandou", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/kansha/kandou.png", "aliases": ["かんどう", "感動"] }
