@@ -1,6 +1,6 @@
 {	
   "name" : "blobtanuki",	
-  "version" : "1.1",	
+  "version" : "1.2",	
   "description" : "たぬぷっぷー",	
   "credit" : "画像は@MKG@maniakey.com → パッケージ@namu3@ariake.concrnt.net",	
   "iconURL" : "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobtanuki/blobtanuki.png",	
@@ -18,10 +18,13 @@
    ,	{ "shortcode": "blobtanuki_daruma", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobtanuki/blobtanuki_daruma.png", "aliases": ["だるま"] }
    ,	{ "shortcode": "blobtanuki_draw", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobtanuki/blobtanuki_draw.gif", "aliases": ["お絵描き", "おえかき"] }
    ,	{ "shortcode": "blobtanuki_eat", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobtanuki/blobtanuki_eat.gif", "aliases": ["食事", "しょくじ", "食べる", "たべる", "おにぎり", "ごはん", "めし"] }
+   ,	{ "shortcode": "blobtanuki_ebihurai", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobtanuki/blobtanuki_ebihurai.webp", "aliases": ["エビフライ", "えびふらい"] }
+   ,	{ "shortcode": "blobtanuki_ebiten", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobtanuki/blobtanuki_ebiten.webp", "aliases": ["エビ天", "えびてん"] }
    ,	{ "shortcode": "blobtanuki_eee", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobtanuki/blobtanuki_eee.gif", "aliases": ["驚く", "おどろく", "びっくり", "えっ"] }
    ,	{ "shortcode": "blobtanuki_fat", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobtanuki/blobtanuki_fat.png", "aliases": ["太り", "ふとり", "でぶ"] }
    ,	{ "shortcode": "blobtanuki_fat2", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobtanuki/blobtanuki_fat2.png", "aliases": ["満腹", "まんぷく", "ぷくぷく", "でぶ"] }
    ,	{ "shortcode": "blobtanuki_fire", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobtanuki/blobtanuki_fire.gif", "aliases": ["ファイヤー", "ふぁいやー", "着火", "ちゃっか", "ひ", ""] }
+   ,	{ "shortcode": "blobtanuki_frustration", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobtanuki/blobtanuki_frustration.webp", "aliases": ["よだれ", "ストレス", "すとれす"] }
    ,	{ "shortcode": "blobtanuki_gakuburu", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobtanuki/blobtanuki_gakuburu.gif", "aliases": ["ガクブル", "がくぶる", "震え", "ふるえ", "こわい"] }
    ,	{ "shortcode": "blobtanuki_gatling", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobtanuki/blobtanuki_gatling.gif", "aliases": ["ガトリング", "がとりんぐ", "マシンガン", "ましんがん", "銃", "じゅう"] }
    ,	{ "shortcode": "blobtanuki_good", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobtanuki/blobtanuki_good.png", "aliases": ["グー", "ぐー", "ナイス", "ないす", "サムズアップ", "さむずあっぷ", "親指", "おやゆび"] }
@@ -48,6 +51,7 @@
    ,	{ "shortcode": "blobtanuki_rolling_hs", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobtanuki/blobtanuki_rolling_hs.gif", "aliases": ["転がる", "ころがる", "回転", "かいてん"] }
    ,	{ "shortcode": "blobtanuki_rvc", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobtanuki/blobtanuki_rvc.gif", "aliases": ["掃除ロボット", "そうじろぼっと", "回転", "かいてん"] }
    ,	{ "shortcode": "blobtanuki_rvc_hs", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobtanuki/blobtanuki_rvc_hs.gif", "aliases": ["掃除ロボット", "そうじろぼっと", "回転", "かいてん"] }
+   ,	{ "shortcode": "blobtanuki_sauna", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobtanuki/blobtanuki_sauna.webp", "aliases": ["サウナ", "さうな"] }
    ,	{ "shortcode": "blobtanuki_sekiyuo", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobtanuki/blobtanuki_sekiyuo.png", "aliases": ["石油王", "せきゆおう", "札束", "さつたば", "現金", "お金", "おかね"] }
    ,	{ "shortcode": "blobtanuki_sticks", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobtanuki/blobtanuki_sticks.gif", "aliases": ["応援", "おうえん", "サイリウム", "さいりうむ"] }
    ,	{ "shortcode": "blobtanuki_sticks2", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobtanuki/blobtanuki_sticks2.gif", "aliases": ["応援", "おうえん", "サイリウム", "さいりうむ"] }
@@ -56,6 +60,7 @@
    ,	{ "shortcode": "blobtanuki_unun", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobtanuki/blobtanuki_unun.gif", "aliases": ["うん", "頷く", "うなずく"] }
    ,	{ "shortcode": "blobtanuki_utouto", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobtanuki/blobtanuki_utouto.gif", "aliases": ["うとうと"] }
    ,	{ "shortcode": "blobtanuki_work", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobtanuki/blobtanuki_work.gif", "aliases": ["仕事", "しごと", "パソコン", "ぱそこん", "キーボード", "きーぼーど"] }
+   ,	{ "shortcode": "blobtanuki_yakiniku", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobtanuki/blobtanuki_yakiniku.webp", "aliases": ["焼肉", "やきにく"] }
    ,	{ "shortcode": "blobtanuki_zombie", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobtanuki/blobtanuki_zombie.png", "aliases": ["ゾンビ", "ぞんび"] }
    ,	{ "shortcode": "tanupuppu", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/blobtanuki/tanupuppu.png", "aliases": ["たぬぷっぷー"] }
 	
