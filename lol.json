@@ -1,6 +1,6 @@
 {	
   "name" : "lol",	
-  "version" : "1.3",	
+  "version" : "1.4",	
   "description" : "草生ゆる",	
   "credit" : "@namu3@ariake.concrnt.net",	
   "iconURL" : "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/3D_kusa.webp",	
@@ -36,6 +36,7 @@
    ,	{ "shortcode": "kattare", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/kattare.webp", "aliases": ["かったれ", "買ったれ"] }
    ,	{ "shortcode": "kanashitake", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/kanashitake.png", "aliases": ["かなしいたけ", "悲"] }
    ,	{ "shortcode": "kan", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/kan.png", "aliases": ["かん", "完"] }
+   ,	{ "shortcode": "kikenga_abunai", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/kikenga_abunai.png", "aliases": ["きけんがあぶない", "危険が危ない"] }
    ,	{ "shortcode": "kiminosugataha", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/kiminosugataha.webp", "aliases": ["きみのすがたはぼくににている", "君の姿は僕に似ている…"] }
    ,	{ "shortcode": "gyakudatta_kamo_shirenee", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/gyakudatta_kamo_shirenee.png", "aliases": ["ぎゃくだったかもしれねえ"] }
    ,	{ "shortcode": "kusa", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/lol/kusa.png", "aliases": ["くさ", "lol", "wara", "草"] }

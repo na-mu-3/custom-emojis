@@ -1,6 +1,6 @@
 {	
   "name" : "homeru_text",	
-  "version" : "1.6",	
+  "version" : "1.7",	
   "description" : "褒めるテキスト",	
   "credit" : "@namu3@ariake.concrnt.net",	
   "iconURL" : "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/iinex2.png",	
@@ -8,6 +8,7 @@
  	
     	{ "shortcode": "ailove", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/ailove.png", "aliases": ["あい", "愛"] }
    ,	{ "shortcode": "atamaii", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/atamaii.png", "aliases": ["あたまいい", "頭いい"] }
+   ,	{ "shortcode": "attouteki_seichou", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/attouteki_seichou.png", "aliases": ["圧倒的成長"] }
    ,	{ "shortcode": "amarinimo_kawaii", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/amarinimo_kawaii.png", "aliases": ["あまりにもかわいい"] }
    ,	{ "shortcode": "amarinimo_kawaii", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/amarinimo_kawaii.webp", "aliases": ["あまりにもかわいい"] }
    ,	{ "shortcode": "3D_ara", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/3D_ara.webp", "aliases": ["あら～"] }
@@ -77,6 +78,7 @@
    ,	{ "shortcode": "tassei", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/tassei.gif", "aliases": ["たっせい", "達成"] }
    ,	{ "shortcode": "tanosimi", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/tanosimi.webp", "aliases": ["たのしみ"] }
    ,	{ "shortcode": "tiken", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/tiken.png", "aliases": ["ちけん", "知見"] }
+   ,	{ "shortcode": "chou_gijutsu", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/chou_gijutsu.png", "aliases": ["ちょうぎじゅつ", "超技術"] }
    ,	{ "shortcode": "tyoudoii", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/tyoudoii.png", "aliases": ["ちょうどいい"] }
    ,	{ "shortcode": "tuyoi", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/tuyoi.webp", "aliases": ["つよい"] }
    ,	{ "shortcode": "tsuyotsuyo", "imageURL": "https://raw.githubusercontent.com/na-mu-3/custom-emojis/refs/heads/main/homeru_text/tsuyotsuyo.webp", "aliases": ["つよつよ"] }
